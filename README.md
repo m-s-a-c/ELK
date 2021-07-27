@@ -1,2 +1,2 @@
 # Elastic Logstash Kibana
-One Elastic One Logstash One Kibana
+Elastic with One Node One Logstash One Kibana
