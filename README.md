@@ -1,2 +1,2 @@
-# ELK
-Elastic Log Kibana
+# Elastic and Kibana
+Elastic with One nodes and One Kibana
